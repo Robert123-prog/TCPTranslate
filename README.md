@@ -5,4 +5,4 @@ Clientul da decode in utf-8 ca sa apara in traducere caracterele speciale; folos
 
 Probleme de rezolvat:
   1. Powershell face figuri(cel putin la mine)
-  
+  2. Cum spui tu fratzika :)) 
