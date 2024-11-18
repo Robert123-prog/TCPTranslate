@@ -3,7 +3,7 @@ import os
 from googletrans import Translator
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.bind(('0.0.0.0', 6969))
+s.bind(('0.0.0.0', 6666))
 s.listen()
 
 languages = {}
